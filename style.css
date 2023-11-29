@@ -1,0 +1,17 @@
+.body{
+    color: #fff;
+    background-image: url("./images/Visions\ of\ Grandeur.jpg");
+}
+
+
+.image-container{
+    float: right;
+    margin: 0 20px 20px 20px;
+    width: 200px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.section{
+    font-style: italic;
+}
